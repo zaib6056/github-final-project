@@ -1,1 +1,10 @@
+curl <GitHub API command showing the fork relationship>
 
+<terminal output>
+...
+"full_name": "zaib6056/forked-repo",
+"fork": true,
+"parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+}
+...
